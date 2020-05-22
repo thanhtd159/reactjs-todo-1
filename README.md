@@ -1,4 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+demo: https://www.youtube.com/watch?v=Ea95KuzXCd0
+1.https://reactjs.org/docs/create-a-new-react-app.html
+2.https://material-ui.com/
+3.https://redux-form.com/8.3.0/
+4.https://redux-saga.js.org/
+
+https://www.youtube.com/watch?v=07-Y9CUjn4I&list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp&index=18
+
 
 ## Available Scripts
 
